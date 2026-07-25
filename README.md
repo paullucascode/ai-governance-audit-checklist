@@ -11,6 +11,10 @@ for Accountability, Risk Classification, Controls and Oversight_ (2026).**
 The complete paper and citable version are available through Figshare:
 https://figshare.com/authors/Paul_Lucas/24409262
 
+A permanent citable version of this checklist is available on Zenodo:
+
+[AI Governance Audit Checklist: A Practical Resource for Internal Auditors](https://doi.org/10.5281/zenodo.21570784)
+
 ## Scope
 
 The checklist is designed for internal audit, risk, compliance, governance
