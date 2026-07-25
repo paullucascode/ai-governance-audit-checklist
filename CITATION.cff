@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this checklist, please cite it as below."
+title: "AI Governance Audit Checklist"
+type: generic
+abstract: "A practical checklist for internal auditors assessing AI governance, accountability, risk classification, and controls across the AI lifecycle."
+authors:
+  - family-names: "Lucas"
+    given-names: "Paul A."
+    affiliation: "Ironcrest Consulting LLC"
+    orcid: "https://orcid.org/0009-0002-6079-356X"
+keywords:
+  - "AI governance"
+  - "internal audit"
+  - "artificial intelligence"
+  - "risk management"
+  - "audit and assurance"
+  - "responsible AI"
+  - "technology risk"
+  - "organizational governance"
+url: "https://github.com/paullucascode/ai-governance-audit-checklist"
