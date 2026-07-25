@@ -9,7 +9,7 @@ This resource accompanies:
 for Accountability, Risk Classification, Controls and Oversight_ (2026).**
 
 The complete paper and citable version are available through Figshare:
-[Add Figshare DOI link]
+https://figshare.com/authors/Paul_Lucas/24409262
 
 ## Scope
 
@@ -24,7 +24,7 @@ executive with senior leadership experience at the World Bank Group and
 across the United Nations system, including UNOPS and UNFPA, as well as
 Deloitte.
 
-ORCID: [Add ORCID link]
+ORCID: https://orcid.org/my-orcid?orcid=0009-0002-6079-356X
 
 ## Independence note
 
