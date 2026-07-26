@@ -13,7 +13,7 @@ https://figshare.com/authors/Paul_Lucas/24409262
 
 A permanent citable version of this checklist is available on Zenodo:
 
-[AI Governance Audit Checklist: A Practical Resource for Internal Auditors](https://doi.org/10.5281/zenodo.21570784)
+[AI Governance Audit Checklist: A Practical Resource for Internal Auditors](https://doi.org/10.5281/zenodo.21570785)
 
 ## Scope
 
