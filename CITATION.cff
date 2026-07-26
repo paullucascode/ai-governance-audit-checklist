@@ -1,13 +1,17 @@
 cff-version: 1.2.0
 message: "If you use this checklist, please cite it as below."
-title: "AI Governance Audit Checklist"
-type: generic
-abstract: "A practical checklist for internal auditors assessing AI governance, accountability, risk classification, and controls across the AI lifecycle."
+title: "AI Governance Audit Checklist: A Practical Resource for Internal Auditors"
 authors:
   - family-names: "Lucas"
     given-names: "Paul A."
-    affiliation: "World Bank" "UNOPS" "Deloitte" "Tufts Fletcher"
+    affiliation: "Formerly World Bank Group, UNOPS, UNFPA, and Deloitte; graduate of The Fletcher School at Tufts University"
     orcid: "https://orcid.org/0009-0002-6079-356X"
+version: "1.0"
+doi: "10.5281/zenodo.21570785"
+date-released: 2026-07-25
+url: "https://doi.org/10.5281/zenodo.21570785"
+repository-code: "https://github.com/paullucascode/ai-governance-audit-checklist"
+abstract: "A practical checklist for internal auditors assessing AI governance, accountability, risk classification, and controls across the AI lifecycle."
 keywords:
   - "AI governance"
   - "internal audit"
@@ -17,4 +21,3 @@ keywords:
   - "responsible AI"
   - "technology risk"
   - "organizational governance"
-url: "https://github.com/paullucascode/ai-governance-audit-checklist"
